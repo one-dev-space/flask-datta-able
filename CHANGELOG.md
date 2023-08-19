@@ -4,7 +4,7 @@
 ### Changes
 
 - `DOCS Update` (readme)
-  - [Flask Datta Able - Go LIVE](https://www.youtube.com/watch?v=ZpKy2j9UU84) (`video presentation`)
+  - [Flask Datta Able Mini - Go LIVE](https://www.youtube.com/watch?v=ZpKy2j9UU84) (`video presentation`)
 
 ## [1.0.12] 2022-12-31
 ### Changes
